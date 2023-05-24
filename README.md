@@ -21,4 +21,6 @@ Ultimately information concerning the below can be found using the code:
 Replace CLIENT_ID, CLIENT_SECRET with your own information using app built with https://developer.spotify.com/
 Replace "Artist_Name_Here_From_User_Input" with any band or solo artist to receive information
 
+(Also served as practice using Python)
+
 :) 
